@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;500;700&family=Raleway:wght@400;600&display=swap');
+
+#background-img{
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.main-text{
+    font-family: 'Poppins', sans-serif;
+    color: #124265;
+    font-weight: 700;
+    text-align: center !important;
+    font-size: 60px;
+    line-height: 80px;
+}
+.sub-main-text{
+    color: #5e5e5e;
+    margin-top: 10px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center !important;
+    font-size: 20px;
+    font-weight:600;
+}
+.fa{
+    margin-bottom: 20px;
+    padding-top: 10px;
+    color: #2487ce;
+    font-size: 36px;
+    line-height:1;
+}
+.my-first-card{
+    color: #124265;
+    font-weight: 700;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+.my-first-card-text{
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+    font-size: 15px;
+    line-height: 28px;
+    margin-bottom: 0;
+}
+.abouth2{
+    color: #124265;
+    font-weight: bold;
+}
+.aboutp{
+    color: #919191;
+    
+}
