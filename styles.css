@@ -23,12 +23,17 @@
     font-size: 20px;
     font-weight:600;
 }
-.fa{
+.abcd{
     margin-bottom: 20px;
     padding-top: 10px;
     color: #2487ce;
     font-size: 36px;
     line-height:1;
+}
+.abcd2{
+    line-height: 2;
+    color: #2487ce;
+    font-size: 10px;
 }
 .my-first-card{
     color: #124265;
@@ -49,5 +54,146 @@
 }
 .aboutp{
     color: #919191;
-    
+
+}
+ul{
+    list-style-type: none;
+}
+.my-logo-image{
+    height:50%;
+    width: 50%;
+    filter: grayscale(100);
+}
+.my-logo-image:hover{
+    filter: none;
+}
+.cta-btn{
+    border-color: #fff;
+    background-color: #2487ce;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+}
+.cta-btn:hover{
+   border-color: #2487ce;
+   background-color: #fff;
+   color: #2487ce;
+   font-family: 'Raleway', sans-serif;
+}
+.team-member-image{
+    height: 100%;
+    width: 100%;
+}
+.mem-name{
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    color: #124265;
+}
+.mem-detail{
+    display: block;
+    font-size: 13px;
+    font-weight: 400;
+    color: #aaaaaa;
+}
+.logo-image-my{
+    width: 20px;
+    height: 20px;
+    margin-left: 6px;
+    margin-right: 6px;
+    filter: grayscale(100);
+}
+.team-logo-ig{
+    opacity: 0;
+    background-color: #fff;
+}
+.team-logo-ig:hover{
+    opacity: 100;
+    background-color: #fff;
+}
+.logo-image-my:hover{
+    width: 20px;
+    height: 20px;
+    margin-left: 6px;
+    margin-right: 6px;
+    filter: none;
+}
+.price-box ul li{
+    padding-bottom: 16px;
+    color:#124265 ;
+    list-style: none;
+}
+.price-box ul .na{
+    color: #ccc;
+    text-decoration: line-through;
+}
+.price-box h4{
+    font-size: 42px;
+    color: #2487ce;
+    font-weight: 500;
+    font-family: "Open Sans", sans-serif;
+    margin-bottom: 20px;
+}
+.price-box h4 span{
+    color: #bababa;
+    font-size: 16px;
+    font-weight: 300;
+}
+.price-box h3{
+    padding: 15px;
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #124265;
+}
+.buy-button:hover{
+     color: #fff !important;
+    background-color:#2487ce;
+    border-width: 2px;
+    font-weight: bold;
+}
+.price-box-2 ul li{
+    padding-bottom: 16px;
+    color:#fff ;
+    list-style: none;
+}
+.price-box-2 ul .na{
+    color: #fff;
+    text-decoration: line-through;
+}
+.price-box-2 h4{
+    font-size: 42px;
+    color: #fff;
+    font-weight: 500;
+    font-family: "Open Sans", sans-serif;
+    margin-bottom: 20px;
+}
+.price-box-2 h4 span{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 300;
+}
+.price-box-2 h3{
+    padding: 15px;
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #fff;
+}
+.buy-button-2:hover{
+    color: #fff !important;
+   background-color:#2487ce;
+   border-width: 2px;
+   font-weight: bold;
+}
+.accordion-button{
+    color: #2487ce;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+}
+#footer .footer-links h4 ul a{
+    color: #777777 !important;
+    display: inline-block;
+    line-height: 1;
 }
