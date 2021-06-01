@@ -192,8 +192,50 @@ ul{
     font-weight: 500;
     cursor: pointer;
 }
-#footer .footer-links h4 ul a{
-    color: #777777 !important;
-    display: inline-block;
-    line-height: 1;
+.jkl{
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 0;
+    font-family: "Raleway", sans-serif;
+    color: #777777;
+}
+.mdn{
+    font-size: 16px;
+    font-weight: bold;
+    color: #124265;
+    position: relative;
+    padding-bottom: 12px;
+}
+.logo-image-my-footer{
+    width: 25px;
+    height: 25px;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+.contacth4{
+    padding: 0 0 0 60px;
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: #124265;
+    font-family: 'Raleway', sans-serif;
+}
+.contactp{
+    padding: 0 0 0 60px;
+    margin-bottom: 0;
+    font-size: 14px;
+    color: #217bbc;
+    font-family: 'Open-sans', sans-serif;
+}
+.fa-phone{
+    font-size: 20px;
+    color: #2487ce;
+    width: 44px;
+    height: 44px;
+    background: #e3f0fa;
+    float: left;
+    border-radius: 5px;
+    display: flex;
+    justify-content:center!important;
+    align-items: center !important;
 }
